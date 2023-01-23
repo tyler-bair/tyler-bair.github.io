@@ -1,3 +1,5 @@
 # tyler-bair.github.io
 
-<form>
+<form action="https://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
