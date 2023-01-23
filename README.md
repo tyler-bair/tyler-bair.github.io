@@ -1,5 +1,5 @@
 # tyler-bair.github.io
 
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
+<form action="https://tyler-bair.github.io/my-app">
+    <input type="submit" value="Tic Tac Toe Tutorial" />
 </form>
